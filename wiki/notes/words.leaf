@@ -1,0 +1,185 @@
+Glossary
+-
+~
+
+Here are some great sailing terms that I've run across while reading. Some of my favorites are <%= link "offing", "#offing" %> and <%= link "seagirt", "#seagirt" %>.
+
+Bight
+--
+
+[noun]
+- a curve or recess in a coastline, river, or other geographical feature.
+- a loop of rope, as distinct from the rope's ends.
+
+<%= hi "bight", notecard_plus(1586817388) %>
+
+Bitts
+--
+[noun] a pair of posts on the deck of a ship for fastening mooring lines or cables.
+
+<%= hi "bitts", notecard_plus(1586658832) %>
+
+Boltrope
+--
+[noun] a strong rope stitched to the edges of a sail to strengthen it.
+
+<%= hi "boltrope", notecard_plus(1586544500) %>
+
+Bowride
+--
+[verb] swim before the bow of a moving ship.
+
+<%= hi "bowride", notecard_plus(1590431767) %>
+
+
+Broach
+--
+[noun/verb] a sudden and hazardous veering or pitching of a ship.
+
+<%= hi "broach", notecard_plus(1586955769) %>
+
+Catenary
+--
+[noun] a curve formed by a wire, rope, or chain hanging freely from two
+points and forming a U shape
+
+<%= hi "catenary", notecard_plus(1578548932) %>
+
+Crosstrees
+--
+[noun] a pair of horizontal struts attached to a sailing ship's mast to spread the rigging, especially at the head of a topmast.
+
+<%= hi "crosstrees", notecard_plus(1586955804) %>
+
+Cutwater
+--
+[noun] the forward edge of a ship's prow.
+
+<%= hi "cutwater", notecard_plus(1587160512) %>
+
+Dolphin Striker
+--
+aka Martingale Boom, Martingale, striker.
+
+[noun] a vertical spar under the end of the bowsprit of a sailboat to extend and support the martingale.
+
+<%= hi "dolphin striker", notecard_plus(1587160505) %>
+
+Ensign
+--
+[noun] a flag flown to indicate nationality.
+
+<%= hi "ensign", notecard_plus(1581653544) %>
+
+Freeboard
+--
+<%= hi "freeboard", notecard_plus(1586955779) %>
+
+Gann Solutions
+--
+<%= hi "Gann Solutions", notecard_plus(1593284516) %>
+
+Jibwise
+--
+[adj] of or relating to the jib sail.
+<%= hi "jibwise", notecard_plus(1593285069) %>
+
+Jubilee Clip
+--
+[noun]  a genericized brand name for worm-drive hose clamp, a type of band
+clamp, consisting of circular metal band or strip combined with a worm gear
+fixed to one end. It is designed to hold a soft, pliable hose onto a rigid
+circular pipe, or sometimes a solid spigot, of smaller diameter.
+
+<%= hi "jubilee clip", notecard_plus(1581518209) %>
+
+Offing
+--
+The furthest part of the sea in sight.
+
+<%= hi "offing", notecard_plus(1590431780) %>
+
+Overfall
+--
+[noun] a turbulent stretch of open water caused by the wind blowing
+against a current, by a strong current or tide over an underwater ridge,
+or by a meeting of currents.
+
+<%= hi "overfalls", notecard_plus(1581653959) %>
+
+Plimsoll Line
+--
+aka "Waterline".
+
+<%= hi "plimsoll line", notecard_plus(1587160494) %>
+
+Reed's Almanac
+--
+Nautical Almanac that has been in print since 1932.
+
+<%= hi "Reed's Almanac", notecard_plus(1581653224) %>
+
+Reeve
+--
+[verb] thread (a rope or rod) through a ring or other aperture, especially in a block.
+
+<%= hi "reeve", notecard_plus(1579983578) %>
+
+Sailing by the lee
+--
+<%= hi "sailing by the lee", notecard_plus(1586955787) %>
+
+Samson Post
+--
+[noun] a strong pillar fixed to a ship's deck to act as a support for a tackle or other equipment.
+
+<%= hi "samson post", notecard_plus(1587160513) %>
+
+Seagirt
+--
+[adj] surrounded by the sea
+
+<%= hi "seagirt", notecard_plus(1578549626) %>
+
+Skeg
+--
+[noun] a tapering or projecting stern section of a vessel's keel, which protects the propeller and supports the rudder.
+
+<%= hi "skeg", notecard_plus(1586955774) %>
+
+Skerry
+--
+[noun] reef or rocky island.
+
+<%= hi "skerries", notecard_plus(1578548495) %>
+
+Sternsheets
+--
+[noun] the flooring planks in a boat's after section, or the seating in this section of an open boat.
+
+<%= hi "sternsheets", notecard_plus(1587160520) %>
+
+Stevedore
+--
+[noun] a person hired to unload cargo from a ship.
+
+<%= hi "stevedores", notecard_plus(1581782882) %>
+
+Veer
+--
+[verb] slacken or let out (a rope or cable) in a controlled way.
+
+<%= hi "veered", notecard_plus(1586817402) %>
+
+Weatherbound
+--
+[adj] prevented by bad weather from travelling.
+
+<%= hi "weatherbound", notecard_plus(1590431764) %>
+
+Yardarm
+--
+[noun] the outer extremity of a ship's yard.
+
+<%= hi "yardarm", notecard_plus(1586955805) %>
+

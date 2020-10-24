@@ -1,0 +1,22 @@
+<%= img "../../images/notes/ground_swell.jpg" %>
+
+Sailing & Adventure
+-
+
+_A collection of wisdom on sailing, crusing and travel in general. This chapter doesn't know exactly what it wants to be yet, so it's a little light. Though there's not much writing here, there is plenty of <%= link "research", "./notecards.html" %> going on behind the scenes._
+
+___
+
+Beginnings
+--
+
+How have successful world-cruisers prepared for the journey? What separates those who have untied the docklines from those who never left?
+- <%= link "Annie Hill's thoughts on comforts and doing without them", "./pages/1579277052.leaf" %>
+- <%= link "Lin Pardey makes her case for choosing a small boat", "./pages/1581654976.leaf" %>
+
+
+Back Matter
+--
+
+- <%= link "Glossary", "./words.leaf" %>
+
