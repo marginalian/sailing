@@ -3,3 +3,9 @@ site_name: Sailing
 description: personal wiki
 keywords:
 
+nav_links:
+  feed: "all_pages.html"
+  notes: "notes/index.html"
+  projects: "projects/pages/index.html"
+  journal: "journal/index.html"
+
