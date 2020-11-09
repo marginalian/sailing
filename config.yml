@@ -4,8 +4,8 @@ description: personal wiki
 keywords:
 
 nav_links:
+  home: "notes/index.html"
   feed: "all_pages.html"
-  notes: "notes/index.html"
   projects: "projects/pages/index.html"
   journal: "journal/index.html"
 

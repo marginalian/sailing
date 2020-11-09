@@ -1,9 +1,10 @@
-Oct 2020 -- Curtain Project
+<%= img "../../../images/projects/pre_curtains.jpg" %>
+
+Oct 2020 - Curtain Project
 -
 ~
 We're moving on the boat! Great, exciting and all that but so much needs to change. What first? Well, privacy would be nice:
 
-<%= img "../../../images/projects/pre_curtains.jpg" %>
 
 Catalina Direct has curtains, but there are 2 problems:
 - our windows are non-standard and bulge out into the cabin.
